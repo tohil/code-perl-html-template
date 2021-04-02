@@ -14,7 +14,7 @@
 		"languages": [{
 			"id": "perl-html-template",
 			"aliases": ["Perl HTML Template", "perl-html-template"],
-			"extensions": [".tmpl",".inc"],
+			"extensions": [".tmpl",".inc",".tpl"],
 			"configuration": "./perl-html-template.configuration.json"
 		}],
 		"grammars": [{

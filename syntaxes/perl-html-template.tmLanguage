@@ -6,6 +6,7 @@
 	<array>
 		<string>tmpl</string>
 		<string>inc</string>
+		<string>tpl</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>&lt;(?i:head|body|table|thead|tbody|tfoot|tr|div|select|fieldset|style|script|ul|ol|li|form|dl)\b.*?&gt;|&lt;!--(?!.*--\s*&gt;)|^&lt;!--\ \#tminclude\ (?&gt;.*?--&gt;)$|&lt;\?(?:php)?.*\b(if|for(each)?|while)\b.+:|\{\{?(if|foreach|capture|literal|foreach|php|section|strip)|\{\s*($|\?&gt;\s*$|//|/\*(.*\*/\s*$|(?!.*?\*/))))</string>
